@@ -3,3 +3,14 @@ D:\Учеба\2 курс\1 Семестр\ООП\Laboratory 3\Book\Book\obj\Debu
 D:\Учеба\2 курс\1 Семестр\ООП\Laboratory 3\Book\Book\obj\Debug\net5.0\Book.AssemblyInfoInputs.cache
 D:\Учеба\2 курс\1 Семестр\ООП\Laboratory 3\Book\Book\obj\Debug\net5.0\Book.AssemblyInfo.cs
 D:\Учеба\2 курс\1 Семестр\ООП\Laboratory 3\Book\Book\obj\Debug\net5.0\Book.csproj.CoreCompileInputs.cache
+D:\Учеба\2 курс\1 Семестр\ООП\Laboratory 3\Book\Book\bin\Debug\net5.0\Book.exe
+D:\Учеба\2 курс\1 Семестр\ООП\Laboratory 3\Book\Book\bin\Debug\net5.0\Book.deps.json
+D:\Учеба\2 курс\1 Семестр\ООП\Laboratory 3\Book\Book\bin\Debug\net5.0\Book.runtimeconfig.json
+D:\Учеба\2 курс\1 Семестр\ООП\Laboratory 3\Book\Book\bin\Debug\net5.0\Book.runtimeconfig.dev.json
+D:\Учеба\2 курс\1 Семестр\ООП\Laboratory 3\Book\Book\bin\Debug\net5.0\Book.dll
+D:\Учеба\2 курс\1 Семестр\ООП\Laboratory 3\Book\Book\bin\Debug\net5.0\ref\Book.dll
+D:\Учеба\2 курс\1 Семестр\ООП\Laboratory 3\Book\Book\bin\Debug\net5.0\Book.pdb
+D:\Учеба\2 курс\1 Семестр\ООП\Laboratory 3\Book\Book\obj\Debug\net5.0\Book.dll
+D:\Учеба\2 курс\1 Семестр\ООП\Laboratory 3\Book\Book\obj\Debug\net5.0\ref\Book.dll
+D:\Учеба\2 курс\1 Семестр\ООП\Laboratory 3\Book\Book\obj\Debug\net5.0\Book.pdb
+D:\Учеба\2 курс\1 Семестр\ООП\Laboratory 3\Book\Book\obj\Debug\net5.0\Book.genruntimeconfig.cache
